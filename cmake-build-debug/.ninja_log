@@ -1,0 +1,12 @@
+# ninja log v5
+3	274	6684689326196992	CMakeFiles/Laba2Prog.dir/ComplexNumber.cpp.obj	34ec1af902e8eb1d
+18	275	6684691972370516	CMakeFiles/Laba2Prog.dir/lab2.cpp.obj	33e29edff66698df
+11	454	6684691974115870	CMakeFiles/Laba2Prog.dir/menu.cpp.obj	a4accff514836439
+3	399	6684691973527446	CMakeFiles/Laba2Prog.dir/main.cpp.obj	10ea301e2b61ce6d
+454	2243	6684691992042841	Laba2Prog.exe	516b6d1a83e6c9cd
+1	157	6684693251403692	build.ninja	a72be0c4a632a3b7
+3	326	6684693254874413	CMakeFiles/Laba2Prog.dir/main.cpp.obj	10ea301e2b61ce6d
+10	362	6684693255233843	CMakeFiles/Laba2Prog.dir/menu.cpp.obj	a4accff514836439
+362	506	6684693256666420	Laba2Prog.exe	636a8209c0aa7e15
+4	277	6684693473734467	CMakeFiles/Laba2Prog.dir/ComplexNumber.cpp.obj	34ec1af902e8eb1d
+278	414	6684693475087805	Laba2Prog.exe	636a8209c0aa7e15
